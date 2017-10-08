@@ -1,12 +1,6 @@
 <?php
 
 /* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
  * La siguiente clase que crearemos es ControladoresBase de la cual heredarán 
  * los controladores, esta clase carga EntidadesBase, ModelosBase, y todos los 
  * modelos creados dentro del directorio model.

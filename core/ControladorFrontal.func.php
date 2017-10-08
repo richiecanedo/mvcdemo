@@ -1,12 +1,6 @@
 <?php
 
 /* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
  * Ahora crearemos el fichero ControladorFrontal.func.php que tiene las 
  * funciones que se encargan de cargar un controlador u otro y una acción u 
  * otra en función de lo que se le diga por la url.

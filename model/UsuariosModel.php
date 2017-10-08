@@ -1,12 +1,6 @@
 <?php
 
 /* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
  * Aquí pondríamos las consultas completas, en lugar de utilizar los métodos 
  * que tenemos en el modelo de entidad, aunque también estarían accesibles 
  * desde este modelo.

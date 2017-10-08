@@ -1,11 +1,5 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* version 2
  * Ahora en el constuctor de cada uno de nuestros controladores tendremos que 
  * instanciar la conexión y utilizar la propiedad adapter para pasar la 

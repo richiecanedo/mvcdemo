@@ -1,12 +1,6 @@
 <?php
 
 /* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
  * Si queremos seguir el paradigma de la programación orientada a objetos 
  * teóricamente deberíamos tener una clase por cada tabla de la base de datos
  * (excepto tablas pivote) que haga referencia a un objeto de la vida real, en 

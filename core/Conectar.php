@@ -1,12 +1,6 @@
 <?php
 
 /* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
  * Primero crearemos la clase Conectar que nos servirá para conectarnos a la 
  * base de datos utilizando el driver MySQLi que es el más rápido aunque muchos
  * por ahí recomienden PDO, y también nos servirá para conectar a la base de 

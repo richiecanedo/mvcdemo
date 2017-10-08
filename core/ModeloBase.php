@@ -1,12 +1,6 @@
 <?php
 
 /* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
  * Ahora crearemos la clase ModeloBase que heredará de la clase EntidadBase y 
  * a su vez será heredada por los modelos de consultas. La clase ModeloBase 
  * permitirá utilizar el constructor de consultas que hemos incluido y también 
