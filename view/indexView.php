@@ -44,8 +44,8 @@
             <?php } ?>
         </section>
 		
-		 <?php if(isset($allproducts) && count($allproducts)>=1) {?>
-		<div class="col-lg-7">
+        <?php if(isset($allproducts) && count($allproducts)>=1) {?>
+	<div class="col-lg-7">
             <h3>Productos</h3>
             <hr/>
         </div>
